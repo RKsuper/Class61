@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: aqua;
+    margin: 8px auto;
+}
